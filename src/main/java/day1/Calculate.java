@@ -1,6 +1,4 @@
-package annotation;
-
-import java.util.ArrayList;
+package day1;
 
 public class Calculate {
 

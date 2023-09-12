@@ -1,4 +1,4 @@
-package annotation;
+package day1;
 
 // 함수형 인터페이스를 목적으로 작성되었지만 깨져버린 코드
 // @FunctionalInterface

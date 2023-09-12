@@ -1,4 +1,4 @@
-package annotation;
+package day1;
 
 public class CalculateErr {
 

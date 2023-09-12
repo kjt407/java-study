@@ -1,8 +1,8 @@
-package utils;
+package day2;
 
 import java.util.Objects;
 
-public class ObjectsTest {
+public class EqualTest {
     public static void main(String[] args) {
         Long num1 = null;
         Long num2 = null;
